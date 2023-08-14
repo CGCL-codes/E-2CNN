@@ -1,5 +1,5 @@
 # Cascaded Pointer Networks for Financial Hyper-Relation Extraction with Entity Types
-Source code of the xxxx paper "E2CNN:Entity-Type-Enriched Cascaded Neural Network for Financial Hyper-Relation Extraction"
+Source code of the  paper "E2CNN:Entity-Type-Enriched Cascaded Neural Network for Financial Hyper-Relation Extraction"
 
 ## Overview
 ![](./figs/overview.png)
